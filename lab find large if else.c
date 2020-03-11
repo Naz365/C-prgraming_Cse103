@@ -8,7 +8,7 @@ int main()
 {
     printf("%d is greater number ",num1);
 }
-if (num2>num1)
+else if (num2>num1)
 {
     printf("%d is greater number",num2);
 
