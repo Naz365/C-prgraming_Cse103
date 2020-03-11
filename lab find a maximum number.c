@@ -27,7 +27,7 @@ int main()
         }
         else
         {
-            printf("%d is the mazimum number",num3);
+            printf("%d is the maximum number",num3);
 
         }
     }
