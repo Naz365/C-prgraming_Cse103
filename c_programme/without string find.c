@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    char s1[100] = "You need learn ", s2[] = "more and more";
+    char s1[100] = "You need to learn ", s2[] = "more and more";
     int i, j;
 
 
